@@ -1,0 +1,23 @@
+package exercicio02;
+
+public class Correntista {
+   
+}
+
+package exercicio02;
+
+public class Correntista {
+    public String nome;
+    public int codigo;
+    public String telefone;
+    public String email;
+}
+
+package exercicio02;
+public class CorretistaTeste {
+    public void criarObjetoQuadrado() {   
+    }
+    public void presencaAtributoLado() {
+}
+   
+}
