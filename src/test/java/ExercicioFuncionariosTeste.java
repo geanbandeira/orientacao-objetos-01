@@ -1,7 +1,6 @@
 package exercicios;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
@@ -37,5 +36,4 @@ public class FuncionariosTeste {
         //Assert
         assertEquals(valorEsperado, valorObtido);
     }
-
 }
